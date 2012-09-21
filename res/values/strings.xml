@@ -342,4 +342,11 @@
     <string name="use_dual_mode_button_on">Long-press the snooze button to dismiss the alarm</string>
     <string name="use_dual_mode_button_off">Separate snooze and dismiss buttons</string>
 
+    <!-- Stopwatch label -->
+    <string name="stopwatch_activity">Stopwatch</string>
+    <string name="stopwatch_pause">Pause</string>
+    <string name="stopwatch_start">Start</string>
+    <string name="stopwatch_lap">Lap</string>
+    <string name="stopwatch_reset">Reset</string>
+
 </resources>
